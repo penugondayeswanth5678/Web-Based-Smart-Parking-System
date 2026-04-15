@@ -1,0 +1,7 @@
+{
+  "name": "Smart Parking",
+  "description": "Intelligent parking reservation platform for modern urban mobility.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
